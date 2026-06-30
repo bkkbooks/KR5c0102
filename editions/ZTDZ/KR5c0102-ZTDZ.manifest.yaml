@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5c0102/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0102/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道德真經藏室纂微篇開題
+  date: '2015-08-29 00:24:05.379295'
+  source:
+    repository: kanripo
+    path: KR5c0102
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0102_000-ZTDZ.yaml, hash: 'sha256:92802fccd05fdedddbb1523e75a85b00065087ee83ed5014191ba766f1662345'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0102_000-ZTDZ.markers.yaml, hash: 'sha256:f36e7b95b8fa8425c9a83ccbd7cb0fc2036325ceeb3d16d8c8d22317450c616e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0102_SJB_000a-130652c
+    span:
+    - body
+    - 0
+    - 3155
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:d681cad90c3afe00a07aa67d41c746298e20a7df906c9bf28fb326d35bdf8e67
