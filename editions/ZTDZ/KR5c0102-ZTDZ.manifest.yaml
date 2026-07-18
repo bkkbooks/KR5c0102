@@ -25,7 +25,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5c0102_000-ZTDZ.yaml, hash: 'sha256:92802fccd05fdedddbb1523e75a85b00065087ee83ed5014191ba766f1662345'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5c0102_000-ZTDZ.markers.yaml, hash: 'sha256:f36e7b95b8fa8425c9a83ccbd7cb0fc2036325ceeb3d16d8c8d22317450c616e'}
+  - {seq: 0, role: markers, filename: assets/KR5c0102_000-ZTDZ.markers.yaml, hash: 'sha256:a7a8b33219770215fa14bc9398918444842325055abc41f1baeaf5593e3acf3c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -37,4 +37,4 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:d681cad90c3afe00a07aa67d41c746298e20a7df906c9bf28fb326d35bdf8e67
+hash: sha256:f1ab9fc84746a1e0bc6da2dfbcdd707eca653e0b6998196bd449b5169ef13b12
